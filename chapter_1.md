@@ -23,3 +23,10 @@ practices, such as regularly changing passwords.
 using a tabula recta
 Polyalphabetic substitution is more effective than simple substitution
 because it varies the substitution pattern throughout the message.
+
+# Key Expansion
+
+# The Advanced Encryption Standard (AES)
+
+* AES
+  * Binary Basics
