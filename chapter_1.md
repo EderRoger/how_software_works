@@ -12,3 +12,14 @@ an attacker’s means.
 Very weak
 
 # Cipher Keys
+
+The best defenses against known-plaintext attacks are good security
+practices, such as regularly changing passwords.
+
+# Substitution: Replacing Data
+
+# Varying the Substitution Pattern
+
+using a tabula recta
+Polyalphabetic substitution is more effective than simple substitution
+because it varies the substitution pattern throughout the message.
