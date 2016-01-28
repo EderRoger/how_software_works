@@ -30,3 +30,13 @@ because it varies the substitution pattern throughout the message.
 
 * AES
   * Binary Basics
+    * Decimal Versus Binary
+    * Bitwise Operations
+    * Converting Data to Binary Form
+  * Key Expansion in AES
+  * AES Encryption Rounds    
+    * Substitution
+    * Row Transposition
+    * Column Combination
+    * XOR with Cipher Key
+  *Block Chaining    
