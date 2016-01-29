@@ -39,4 +39,4 @@ because it varies the substitution pattern throughout the message.
     * Row Transposition
     * Column Combination
     * XOR with Cipher Key
-  *Block Chaining    
+  * Block Chaining    
