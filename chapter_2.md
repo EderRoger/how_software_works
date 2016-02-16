@@ -6,3 +6,6 @@
 * Avalanche
 
  ### The MD5 Hash Function ###
+
+ * Encoding the Password
+ ** To get started, MD5 converts the password to a 512-bit block; I’ll call this the encoded password
