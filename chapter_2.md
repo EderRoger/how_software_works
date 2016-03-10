@@ -13,4 +13,6 @@
  ** Binary Addition
  ** Bitwise NOT
  ** Bitwise OR
+ ** Bitwise AND
 
+* MD5 Hashing Rounds
