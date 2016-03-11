@@ -16,3 +16,5 @@
  ** Bitwise AND
 
 * MD5 Hashing Rounds
+* Digital Signatures
+
