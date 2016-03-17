@@ -17,5 +17,5 @@
 
 * MD5 Hashing Rounds
 * Digital Signatures
-*
-*
+** The problem of identity
+** Collision attacks
