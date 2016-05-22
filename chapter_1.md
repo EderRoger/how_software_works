@@ -34,9 +34,9 @@ because it varies the substitution pattern throughout the message.
     * Bitwise Operations
     * Converting Data to Binary Form
   * Key Expansion in AES
-  * AES Encryption Rounds    
+  * AES Encryption Rounds
     * Substitution
     * Row Transposition
     * Column Combination
     * XOR with Cipher Key
-  * Block Chaining    
+  * Block Chaining
